@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain_community
+openai
+requests
+dotenv
+# add other libraries you are using in your project
